@@ -10,5 +10,6 @@ module.exports = {
       },
     },
   },
+  darkMode: "media",
   plugins: [require("@tailwindcss/forms"), require("tailwind-scrollbar")],
 };
